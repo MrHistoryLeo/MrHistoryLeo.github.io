@@ -1,0 +1,15 @@
+{
+  "name": "拿不完",
+  "short_name": "拿不完",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffe0a6",
+  "theme_color": "#ffe0a6",
+  "icons": [
+    {
+      "src": "/brand/china-logo.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    }
+  ]
+}
